@@ -1,6 +1,8 @@
-![logo-unBork](./assets/logo-unBork.png)
-
 # 🔐 Página de Login - unBork
+
+<p align="center">
+  <img src="./assets/logo-unBork.png" alt="logo-unBork">
+</p>
 
 Uma página de login moderna e responsiva desenvolvida para a **unBork**, com design elegante e interface intuitiva.
 
