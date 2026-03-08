@@ -65,23 +65,19 @@ A página utiliza um layout em **duas colunas**:
 
 1. **Clone ou baixe o repositório**
    ```bash
-   git clone <url-do-repositorio>
+   git clone https://github.com/bork85/loginPage-unBork.git
    cd loginPage-unBork
    ```
 
 2. **Abra no navegador**
    - Abra o arquivo `index.html` diretamente no seu navegador
-   - Ou use um servidor local:
-   ```bash
-   python -m http.server 8000
-   # ou
-   npx http-server
-   ```
+   - ou utilize a extensão "Live Server" (após instala-la basta clicar com o direito no arquivo `index.html` e ir na opção `open with Live Server`
 
 3. **Acesse em seu navegador**
    ```
-   http://localhost:8000
+   http://localhost:5500
    ```
+   - Se utilizar o Live Server a pagina será aberta automaticamente...
 
 ## 📝 Notas de Desenvolvimento
 
