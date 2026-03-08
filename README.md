@@ -1,3 +1,5 @@
+![logo-unBork](./assets/logo-unBork.png)
+
 # 🔐 Página de Login - unBork
 
 Uma página de login moderna e responsiva desenvolvida para a **unBork**, com design elegante e interface intuitiva.
@@ -35,7 +37,7 @@ loginPage-unBork/
 ## 📋 Campos do Formulário
 
 | Campo | Tipo | Descrição |
-|-------|------|-----------|
+| ------- | ------ | ----------- |
 | E-mail | `email` | Entrada de correio eletrônico do usuário |
 | Senha | `password` | Campo seguro para senha |
 | Lembrar de mim | `checkbox` | Manter sessão ativa |
@@ -103,10 +105,9 @@ Para customizar a página, você pode:
 
 Feito com ❤️ pela unBork
 
-## 📞 Contato
+## ✉️ Contato
 
-- **WhatsApp**: Clique no ícone do WhatsApp na página
-- **Link de Suporte**: Disponível na seção "Esqueceu sua senha?"
+- **E-mail**: me chame em [daniel.bork@yahoo.com.br](mailto:daniel.bork@yahoo.com.br)
 
 ---
 
